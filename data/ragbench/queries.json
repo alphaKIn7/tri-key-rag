@@ -1,0 +1,298 @@
+{
+  "bac61451-d99a-43b3-9754-b8a593e5d1d7": {
+    "query": "Does bounded invariance affect how probability shares are assigned when preferences change below a certain rank?",
+    "type": "extractive"
+  },
+  "0920cb6c-229b-4b46-b2ab-834dffea6689": {
+    "query": "How do implementation shortfall (IS) and target close (TC) orders differ in trading strategies?",
+    "type": "abstractive"
+  },
+  "4e7d0455-e703-4c78-bc71-84f3914562cd": {
+    "query": "What does applying DDGA to high-dimensional biological networks help uncover?",
+    "type": "abstractive"
+  },
+  "b5ccba78-c283-4182-a858-d07f02ea7967": {
+    "query": "What is an impossibility theorem in the context of voting methods?",
+    "type": "abstractive"
+  },
+  "abac4f71-391c-4853-90d8-da56068346d1": {
+    "query": "What is the Euclidean norm defined for all \\( x \\in \\mathbb{R}^{n} \\)?",
+    "type": "extractive"
+  },
+  "c1070c8a-180d-451c-9506-aed2dc117ecf": {
+    "query": "Is a second-order Taylor expansion needed to analyze the error of Taylor's expansion for ATM curvature?",
+    "type": "extractive"
+  },
+  "437d4c98-2b83-4a5a-ab62-77ad651187b0": {
+    "query": "What is the significance of quasi-thermostatic CRN in chemical reaction networks?",
+    "type": "abstractive"
+  },
+  "c18679e8-4ec5-476e-a202-f00fab370e69": {
+    "query": "Why do ties matter in the context of Instant Runoff voting?",
+    "type": "abstractive"
+  },
+  "68f55d7a-aeaf-4da1-8121-179005e059ba": {
+    "query": "What does the defensible set of a profile represent in voting methods?",
+    "type": "abstractive"
+  },
+  "fe0d3ed5-5497-4c7b-846e-a14d08d25b97": {
+    "query": "How do non-Euclidean embeddings compare to Euclidean embeddings for biological pathways?",
+    "type": "abstractive"
+  },
+  "ed5f3288-ef18-4c44-9bcd-89ce33e2b974": {
+    "query": "What is the purpose of information fusion in sensor nodes?",
+    "type": "abstractive"
+  },
+  "c35f4948-506a-46c4-9259-114920f407ee": {
+    "query": "What does the random slopes MLMM capture in terms of uncertainty?",
+    "type": "abstractive"
+  },
+  "e480153c-529c-45fd-95de-c7336ac9c872": {
+    "query": "How does the concept of absolute sensitivity differ from traditional sensitivity analysis in CRNs?",
+    "type": "abstractive"
+  },
+  "782b73e6-acc4-43ed-a6ae-97a9f4039769": {
+    "query": "What challenges do large position holders face when executing trades in financial markets?",
+    "type": "abstractive"
+  },
+  "935fb7f6-48ce-44b6-942d-1bff82ff5f03": {
+    "query": "How do researchers study gene expression patterns during embryogenesis?",
+    "type": "abstractive"
+  },
+  "f0eb092f-70d9-495a-abcf-2766704a638e": {
+    "query": "What role does mean square prediction error play in evaluating linear predictors?",
+    "type": "abstractive"
+  },
+  "324526de-5ce9-4a76-b70d-533c70419fbb": {
+    "query": "Where can the Pathway Commons v12 PathBank pathways be accessed from?",
+    "type": "extractive"
+  },
+  "1b4d4eeb-b2d9-4e5b-b3e5-fd52badb184c": {
+    "query": "Under what condition does a complex balanced CRN mimic an irreversible CRN with absolute concentration robustness?",
+    "type": "extractive"
+  },
+  "eb066821-18b2-49ce-aaa4-303d3316c382": {
+    "query": "Does the class of quasi-thermostatic CRN include equilibrium chemical reaction networks?",
+    "type": "extractive"
+  },
+  "d364746a-e6c4-457f-b213-217bd899393a": {
+    "query": "What influences the ATM skew in the Edgeworth series?",
+    "type": "abstractive"
+  },
+  "fb3dddca-07d8-4d90-8439-6fa4d12b1e69": {
+    "query": "Is the chemical reaction network sensitive in $X_{4}$ when $r$ is close to 0?",
+    "type": "extractive"
+  },
+  "8a7b90a0-79b8-4133-965d-6be6e4281f65": {
+    "query": "How do $\\mathcal{M}, \\mathcal{N}$-adhesive categories extend the concept of (quasi)adhesivity?",
+    "type": "abstractive"
+  },
+  "a80eea5b-6d26-4f21-a545-0876cf4d2ab9": {
+    "query": "Why are Condorcet winner and loser criteria significant in social choice theory?",
+    "type": "abstractive"
+  },
+  "be885c91-e5bd-4abb-a29c-f8ab77243e28": {
+    "query": "Do Minimax and Split Cycle methods satisfy positive involvement and the Condorcet winner criterion?",
+    "type": "extractive"
+  },
+  "5de01203-79c7-46b6-8e72-f449b1d5f842": {
+    "query": "What is a reference strategy in order execution brokerage?",
+    "type": "extractive"
+  },
+  "c9820ad3-4368-41a0-9d67-cd0e1abde636": {
+    "query": "What is the purpose of using XGBoost in predicting cell distribution during Drosophila embryogenesis?",
+    "type": "abstractive"
+  },
+  "94b0e85f-7737-44f1-97be-34d34bcd9720": {
+    "query": "Why is a quadratic function used for approximating short-term implied volatility?",
+    "type": "abstractive"
+  },
+  "24e70880-7bc4-40be-b0b4-5ca8d0076a23": {
+    "query": "What does the predicted ideal measurement set (PIMS) include?",
+    "type": "extractive"
+  },
+  "b1fc9796-a0cb-401a-bea9-a4104cf20497": {
+    "query": "Is it challenging to quantify the landscape for high-dimensional oscillatory systems accurately using classical energy landscape theory?",
+    "type": "extractive"
+  },
+  "f232b252-fe59-48c2-b066-ca89693c5266": {
+    "query": "Can refinements of the defensible set violate positive involvement?",
+    "type": "extractive"
+  },
+  "68ce5136-6721-4fa4-b981-e8382a4a4f5f": {
+    "query": "How is label inconsistency resolved in distributed information fusion?",
+    "type": "abstractive"
+  },
+  "eaffc3c2-7c2b-492c-8440-71de02d4aa99": {
+    "query": "Is it possible to achieve a steady state point that satisfies complex balancing by adjusting kinetic parameters?",
+    "type": "extractive"
+  },
+  "4b198cf7-037a-4bb5-8715-e09e35beeece": {
+    "query": "What type of options does the novel deep learning method price?",
+    "type": "abstractive"
+  },
+  "7423ce6f-67b8-4f1e-9675-8e101e6eccd7": {
+    "query": "What is the axiom of positive involvement in voting methods?",
+    "type": "extractive"
+  },
+  "5517b1a4-ac90-4492-b474-329016b737f2": {
+    "query": "Is the Gene Ontology suitable for learning hyperbolic representations?",
+    "type": "extractive"
+  },
+  "0c1eac54-193d-4460-a6db-69539b6bf862": {
+    "query": "What property does the random serial dictatorship allocation mechanism fail to satisfy?",
+    "type": "abstractive"
+  },
+  "c33827b9-989c-4ae0-956a-b73b84369aae": {
+    "query": "What is the concept of unambiguous efficiency in random allocations?",
+    "type": "abstractive"
+  },
+  "29e8e6aa-cb4d-4a73-abc4-9e133e26d717": {
+    "query": "How do these geometric properties relate to Max-Plus algebras?",
+    "type": "abstractive"
+  },
+  "32bc7f32-d167-4845-9ace-1815a91c1e6a": {
+    "query": "Are the total dimensionalities of all spaces constrained to a specific sum?",
+    "type": "extractive"
+  },
+  "f5a64559-39a2-4bfa-965a-cb298328c166": {
+    "query": "Is the operation $\\boxplus$ associative?",
+    "type": "extractive"
+  },
+  "8d6b7ea4-c7e1-42c0-8d5f-b33621ad4eda": {
+    "query": "What file format is used to save the embeddings learned by the embedding model?",
+    "type": "extractive"
+  },
+  "c838a448-da54-4df8-a97b-e2b6d18d7c65": {
+    "query": "How can machine learning models be used to manipulate voting outcomes with limited information?",
+    "type": "abstractive"
+  },
+  "bb4224f6-e1f8-4e76-ac38-e1c168a64671": {
+    "query": "What role do trading trajectories play in optimal order execution strategies?",
+    "type": "abstractive"
+  },
+  "983044b7-55b9-4a52-8434-4b07d877634d": {
+    "query": "What is a notable benefit of using multilevel metamodels (MLMM) in simulation studies?",
+    "type": "abstractive"
+  },
+  "417f5233-094a-47cb-a856-d27fd6c2951e": {
+    "query": "How does the Edgeworth expansion technique contribute to studying implied volatility surfaces?",
+    "type": "abstractive"
+  },
+  "53ea5416-6d2a-43ed-90ab-b99d73135d66": {
+    "query": "What is the challenge in predicting random functions in infinite-dimensional spaces?",
+    "type": "abstractive"
+  },
+  "1512d8ef-4f29-4828-b3be-58755a7a96d6": {
+    "query": "What theorem allows thinking of a randomized allocation as a bistochastic matrix?",
+    "type": "extractive"
+  },
+  "e04baf44-f0ca-46dd-aaa3-d78f3d0613b5": {
+    "query": "Are there significant differences in absolute sensitivity between conditions where $\\epsilon=0.01$ and $\\epsilon=0.1$?",
+    "type": "extractive"
+  },
+  "6ec1fcac-e5de-4eef-9fb7-918481e2a303": {
+    "query": "How does the DDGA method handle diffusion effects in oscillatory systems?",
+    "type": "abstractive"
+  },
+  "81db723a-a4a1-4f10-81fa-a964562ec5bc": {
+    "query": "Is there overshooting in the optimal strategy if \\( R < A - (x_0 - A)/(\\cosh(\\kappa T) -1)\\)?",
+    "type": "extractive"
+  },
+  "664d0770-1127-4fd4-9c86-afccdad64e1e": {
+    "query": "What is unambiguously efficient allocation?",
+    "type": "abstractive"
+  },
+  "64055ea7-adca-470c-99d2-15919ab7ed3a": {
+    "query": "Why is it important to consider dependent data structures in Monte Carlo simulations?",
+    "type": "abstractive"
+  },
+  "a9d388b8-7871-4cf7-8406-87294f10b46a": {
+    "query": "What condition is required for absolute concentration robustness in the chemical reaction network?",
+    "type": "extractive"
+  },
+  "b451cab4-11f9-415a-9cb5-750491e99a55": {
+    "query": "How is live imaging used to analyze transcriptional dynamics?",
+    "type": "abstractive"
+  },
+  "4b839463-b369-43ec-8d97-000563ef02ba": {
+    "query": "Can $\\widehat{A}$ be an asymptotically OLPO without a strict $\\sqrt{T}$-rate assumption?",
+    "type": "extractive"
+  },
+  "4eee24b3-2897-4141-bde7-868542e7a71c": {
+    "query": "Does dimension reduction of the target variable $Y_{t}$ generally lead to a more optimal estimator?",
+    "type": "extractive"
+  },
+  "fa8eeb83-d6a6-44ff-8e7a-9163450c80b6": {
+    "query": "Why is it important to achieve a balance between resource utilization and tracking accuracy in CAVs?",
+    "type": "abstractive"
+  },
+  "b4a9e0ff-60ec-4e0a-9ccb-9e74ddd15f99": {
+    "query": "What role does invariance play in Condorcet-based voting systems?",
+    "type": "abstractive"
+  },
+  "7ed67fe7-ff59-4c2a-9ec9-8ef3930b8692": {
+    "query": "Is there a difference in usefulness between qualitative and quantitative margin matrices for manipulating Borda and Black's?",
+    "type": "extractive"
+  },
+  "226b0996-eb32-41c9-b5ba-57560bce1ea6": {
+    "query": "Are the embeddings used to initialize weights for models in an edge prediction task?",
+    "type": "extractive"
+  },
+  "230e9b70-9189-4dd4-8277-e978d99258a5": {
+    "query": "Does learning to manipulate based on the plurality ranking lead to profitability comparable to learning on the basis of the plurality scores themselves?",
+    "type": "extractive"
+  },
+  "25679822-c78f-4140-b2ef-825c300ad487": {
+    "query": "Is Stable Voting more manipulable with an even number of voters?",
+    "type": "extractive"
+  },
+  "4c073f02-02e2-480f-9522-7a36ce860a0f": {
+    "query": "What metrics were used to evaluate the performance of different sensor control methods?",
+    "type": "abstractive"
+  },
+  "33f3e86e-2820-4b16-b720-f5bb913bbeac": {
+    "query": "Why is it important to learn high-quality embeddings for biological pathway graphs?",
+    "type": "abstractive"
+  },
+  "d30639b4-d312-47b4-a347-c98a640930ad": {
+    "query": "Is the Riemann-Liouville fractional Brownian motion used in rough volatility models Markovian?",
+    "type": "extractive"
+  },
+  "423bc416-1f4e-4d80-939f-c2822cdbb379": {
+    "query": "Why is it important to study the social cost or benefit of learned manipulations in elections?",
+    "type": "abstractive"
+  },
+  "ca35d598-a95d-4618-a2f0-21a8bd24545b": {
+    "query": "What theoretical rationale supports using multilevel metamodels in simulation studies?",
+    "type": "abstractive"
+  },
+  "fa1fd51b-ce40-4129-ab27-0dd4f539ce20": {
+    "query": "What framework is used for enhanced multi-target tracking in dynamic environments?",
+    "type": "extractive"
+  },
+  "7a7c05a5-1c72-4ac3-8db0-d8d874236c99": {
+    "query": "How does the new pipeline improve cell type identification in spatial transcriptomics?",
+    "type": "abstractive"
+  },
+  "37e267c7-f836-468f-8f82-69ace5ac7e55": {
+    "query": "What is the formula for absolute sensitivity in the case of complex balancing?",
+    "type": "extractive"
+  },
+  "f008fe1b-a418-40cc-b41f-3b09fc9e8e9f": {
+    "query": "Were the animal experiments approved by an ethics review board?",
+    "type": "extractive"
+  },
+  "71093e38-e304-47d2-9627-7527a9d5e9e5": {
+    "query": "How do cumulant-based conditions affect different types of volatility models?",
+    "type": "abstractive"
+  },
+  "f8ca8e45-3ee3-448d-aa95-4bc20f130b4e": {
+    "query": "Is the new definition of $\\mathbb{B}$-space extended to the entire Euclidean vector space?",
+    "type": "extractive"
+  },
+  "ad960937-03d6-422c-ac73-1b2401c022aa": {
+    "query": "Does the feature extraction process precede dataset preparation for training?",
+    "type": "extractive"
+  }
+}

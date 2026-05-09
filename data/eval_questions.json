@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the Minimum Equipment List?",
+    "key_phrases": ["Minimum Equipment List", "broken component"]
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What percentage of airspace delays are caused by convective weather?",
+    "key_phrases": ["40%", "convective weather"]
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is block time padding?",
+    "key_phrases": ["block time", "extra minutes"]
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is a Ground Delay Program?",
+    "key_phrases": ["Ground Delay Program", "incoming flights"]
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "How long is a standard turnaround for a narrow-body aircraft?",
+    "key_phrases": ["45-60 minutes"]
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is fuel tankering?",
+    "key_phrases": ["tankering", "fuel"]
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What is RVSM?",
+    "key_phrases": ["Reduced Vertical Separation", "1,000 feet"]
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "question": "When is a flight officially considered delayed?",
+    "key_phrases": ["15 minutes"]
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "What statistical transformation is applied to delay minutes in predictive models?",
+    "key_phrases": ["log1p"]
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "What happens if a maintenance issue is not covered by the MEL?",
+    "key_phrases": ["grounded"]
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "What mitigation strategies do airlines use to handle delays?",
+    "key_phrases": ["spare aircraft", "re-routing"]
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "What fluid is used to prevent ice from forming on a plane before takeoff?",
+    "key_phrases": ["Type IV", "holdover"]
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "question": "What are passengers entitled to if their flight is cancelled?",
+    "key_phrases": ["refund"]
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "question": "How does altitude and temperature affect how much a plane can carry?",
+    "key_phrases": ["takeoff weight", "thrust"]
+  },
+  {
+    "id": 15,
+    "difficulty": "hard",
+    "question": "What happens when pilots run out of legal flying time?",
+    "key_phrases": ["replacement crew", "FDP"]
+  },
+  {
+    "id": 16,
+    "difficulty": "hard",
+    "question": "What happens when a plane has to turn back after already taking off?",
+    "key_phrases": ["air return", "departure"]
+  },
+  {
+    "id": 17,
+    "difficulty": "hard",
+    "question": "What does an airline do when a storm forces passengers to miss their connecting flight?",
+    "key_phrases": ["rebook", "misconnect"]
+  },
+  {
+    "id": 18,
+    "difficulty": "hard",
+    "question": "What happens if a plane does not have enough fuel to reach the destination?",
+    "key_phrases": ["MAYDAY", "fuel emergency"]
+  },
+  {
+    "id": 19,
+    "difficulty": "hard",
+    "question": "How do airlines decide how many extra passengers to sell tickets to?",
+    "key_phrases": ["oversell", "no-show"]
+  },
+  {
+    "id": 20,
+    "difficulty": "hard",
+    "question": "Why might a fully booked flight still have to leave some cargo behind?",
+    "key_phrases": ["center of gravity", "weight"]
+  }
+]

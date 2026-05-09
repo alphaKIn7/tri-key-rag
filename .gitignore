@@ -1,0 +1,22 @@
+# Environment
+venv/
+.env
+*.pyc
+__pycache__/
+
+# Claude-specific project notes (private)
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Large cached files — regenerate with download_ragbench.py
+data/cache/
+data/corpus/
+
+# Evaluation logs (generated on run)
+data/eval_log.json
+
+# FAISS indexes are binary — not useful in git
+*.faiss
+*.chunks
