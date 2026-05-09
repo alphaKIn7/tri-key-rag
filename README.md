@@ -241,6 +241,8 @@ python evaluation/debug_retrieval.py  # shows what each index retrieves per quer
 
 ## Design Decisions
 
+**Why not use the cross-encoder reranker in ragbench evaluations?** The reranker (`ranking/reranker.py`) is wired into the individual pipeline classes but excluded from ragbench evaluations. The cross-encoder model (`ms-marco-MiniLM-L-6-v2`) was trained on general web queries and performed worse on academic paper content — it would demote correct chunks on domain-specific questions, adding noise rather than signal. Excluding it isolates the retrieval strategy as the independent variable.
+
 **Why not use the query rewriter?** The query rewriter was built (`llm/query_rewriter.py`) but excluded from all pipeline comparisons. Including it only in Method 3 would make better performance attributable to query quality rather than the Tri-Key retrieval strategy. Scientific validity requires controlling variables.
 
 **Why sentence-boundary chunking?** More sophisticated methods (embedding-based split detection, proposition chunking) exist but are held constant across all three methods. Chunking quality affects all methods equally — it is a controlled variable, not a comparison variable.
